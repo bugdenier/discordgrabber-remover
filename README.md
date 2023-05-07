@@ -12,7 +12,7 @@ Keep your account safe!
 ```js
 module.exports = require('./core.asar')"
 ```
-° If you have something else, you're probably infected.
+° If have something else, you're probably infected.
 
 ## How to prevent this?
 
